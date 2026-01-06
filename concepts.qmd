@@ -1,0 +1,34 @@
+# Konzepte identifizieren
+
+::: {.callout-note title="Beispielfrage"}
+"What is the optimal surgical treatment strategy for cervical locked facets?"
+:::
+
+## PICO
+
+::: {.callout-caution title="Aufgabe"}
+Welche Konzepte enthält die Frage? Kann man hier PICO sinnvoll einsetzen?
+:::
+
+::: {#tbl-pico}
+|       |              |     |
+|-------|--------------|-----|
+| **P** | Population   |     |
+| **I** | Intervention |     |
+| **C** | Comparison   |     |
+| **O** | Outcome      |     |
+:::
+
+Hier ist eine mögliche Lösung. Bitte erst nach Bearbeiten der Aufgabe anklicken.
+
+::: {.callout-tip collapse="true" title="Lösung"}
+```         
+P: Cervical locked facets
+
+I: surgery / treatment options
+
+C: -
+
+O: - 
+```
+:::

@@ -1,0 +1,3 @@
+# Einführung {.unnumbered}
+
+Dieser Workshop zeigt die ersten Schritte zur Erstellung einer Systematischen Literaturrecherche für eine klinische Fragestellung.

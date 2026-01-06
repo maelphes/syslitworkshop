@@ -1,0 +1,74 @@
+# Projektinformationen
+
+Für diesen Workshop soll das nachfolgende Projektbeispiel verwendet werden.
+
+::: {.callout-tip title="Projektinformationen"}
+Im Idealfall erhält man von den Forschenden diese Angaben, eventuell sogar einen Protokollentwurf.
+
+Falls nicht, ist es dringend empfohlen, nach diesen Informationen zu fragen.
+:::
+
+## Forschungsfrage
+
+"What is the optimal surgical treatment strategy for cervical locked facets?"
+
+## Auswahlkriterien
+
+### Inclusion Criteria
+
+-   Reporting surgical treatment (anterior/posterior/combined approach)
+-   Comparative studies, RCTs, cohort studies, or case series (≥10 patients)
+-   Reporting at least one relevant clinical outcome
+-   Published in English or German
+
+### Exclusion Criteria
+
+-   Non-surgical treatment focus
+-   Non-traumatic causes (e.g. congenital, degenerative locked facets)
+-   Pediatric patients (\<16 years)
+
+## Seed Paper {#sec-seedpaper}
+
+::: {.callout-tip title="Seed Paper"}
+Relevante Literatur, die die Forschungsfrage beantworten könnte, nennt man *Seed Paper*, *Core Paper* oder *Key Paper*. 
+
+Oftmals erhält man kaum Seed Paper von den Forschenden, und die Form, in der man die Seed Paper erhält, kann vielfältig sein.
+PDF-Volltexte oder unvollständige Zitationen (oft ohne DOI oder PMID) sind keine Seltenheit.
+
+Ideal wären PubMed IDs oder DOIs, deshalb empfiehlt es sich, danach zu fragen.
+
+Falls die Forschenden keine Seed Paper kennen, ist es sinnvoll, eine kurze **Scoping Search** (z.B. in PubMed, Google Scholar o.ä.) nach den wichtigsten Konzepten durchzuführen, und so mögliche Seed Paper zu finden. Diese sollte man den Forschenden dann zur Beurteilung schicken, um sich die Relevanz bestätigen zu lassen.
+:::
+
+Nehmen wir an, diese PubMed IDs (PMIDs) wurden von den Forschenden bereitgestellt:
+
+``` markdown
+17355824 
+27137154 
+28507879 
+10413120 
+34400738
+20936307
+25909272 
+10419364
+25344641 
+29279998 
+28182597
+29547951 
+31332570
+12431286 
+8169645 
+21892390
+30637172
+27886874
+28658125
+27706424
+35763222
+17109175
+29951274
+21559107
+28808751
+10382247
+10616053
+8553116
+```

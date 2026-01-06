@@ -1,0 +1,145 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "Einführung\nDieser Workshop zeigt die ersten Schritte zur Erstellung einer Systematischen Literaturrecherche für eine klinische Fragestellung.",
+    "crumbs": [
+      "Home",
+      "Einführung"
+    ]
+  },
+  {
+    "objectID": "facts.html",
+    "href": "facts.html",
+    "title": "1  Projektinformationen",
+    "section": "",
+    "text": "1.1 Forschungsfrage\nFür diesen Workshop soll das nachfolgende Projektbeispiel verwendet werden.\n“What is the optimal surgical treatment strategy for cervical locked facets?”",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projektinformationen</span>"
+    ]
+  },
+  {
+    "objectID": "facts.html#auswahlkriterien",
+    "href": "facts.html#auswahlkriterien",
+    "title": "1  Projektinformationen",
+    "section": "1.2 Auswahlkriterien",
+    "text": "1.2 Auswahlkriterien\n\n1.2.1 Inclusion Criteria\n\nReporting surgical treatment (anterior/posterior/combined approach)\nComparative studies, RCTs, cohort studies, or case series (≥10 patients)\nReporting at least one relevant clinical outcome\nPublished in English or German\n\n\n\n1.2.2 Exclusion Criteria\n\nNon-surgical treatment focus\nNon-traumatic causes (e.g. congenital, degenerative locked facets)\nPediatric patients (&lt;16 years)",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projektinformationen</span>"
+    ]
+  },
+  {
+    "objectID": "facts.html#sec-seedpaper",
+    "href": "facts.html#sec-seedpaper",
+    "title": "1  Projektinformationen",
+    "section": "1.3 Seed Paper",
+    "text": "1.3 Seed Paper\n\n\n\n\n\n\nSeed Paper\n\n\n\nRelevante Literatur, die die Forschungsfrage beantworten könnte, nennt man Seed Paper, Core Paper oder Key Paper.\nOftmals erhält man kaum Seed Paper von den Forschenden, und die Form, in der man die Seed Paper erhält, kann vielfältig sein. PDF-Volltexte oder unvollständige Zitationen (oft ohne DOI oder PMID) sind keine Seltenheit.\nIdeal wären PubMed IDs oder DOIs, deshalb empfiehlt es sich, danach zu fragen.\nFalls die Forschenden keine Seed Paper kennen, ist es sinnvoll, eine kurze Scoping Search (z.B. in PubMed, Google Scholar o.ä.) nach den wichtigsten Konzepten durchzuführen, und so mögliche Seed Paper zu finden. Diese sollte man den Forschenden dann zur Beurteilung schicken, um sich die Relevanz bestätigen zu lassen.\n\n\nNehmen wir an, diese PubMed IDs (PMIDs) wurden von den Forschenden bereitgestellt:\n17355824 \n27137154 \n28507879 \n10413120 \n34400738\n20936307\n25909272 \n10419364\n25344641 \n29279998 \n28182597\n29547951 \n31332570\n12431286 \n8169645 \n21892390\n30637172\n27886874\n28658125\n27706424\n35763222\n17109175\n29951274\n21559107\n28808751\n10382247\n10616053\n8553116",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projektinformationen</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html",
+    "href": "concepts.html",
+    "title": "2  Konzepte identifizieren",
+    "section": "",
+    "text": "2.1 PICO\nHier ist eine mögliche Lösung. Bitte erst nach Bearbeiten der Aufgabe anklicken.",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzepte identifizieren</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#pico",
+    "href": "concepts.html#pico",
+    "title": "2  Konzepte identifizieren",
+    "section": "",
+    "text": "Aufgabe\n\n\n\nWelche Konzepte enthält die Frage? Kann man hier PICO sinnvoll einsetzen?\n\n\n\n\n\nTable 2.1\n\n\n\n\n\nP\nPopulation\n\n\n\nI\nIntervention\n\n\n\nC\nComparison\n\n\n\nO\nOutcome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLösung\n\n\n\n\n\nP: Cervical locked facets\n\nI: surgery / treatment options\n\nC: -\n\nO: -",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzepte identifizieren</span>"
+    ]
+  },
+  {
+    "objectID": "searchterms.html",
+    "href": "searchterms.html",
+    "title": "3  Suchbegriffe erarbeiten",
+    "section": "",
+    "text": "3.1 Textanalyse\nIm Folgenden wollen wir in verschiedenen Techniken die Seed Paper aus Section 1.3 einsetzen, um Suchbegriffe zu finden. Diese notieren wir uns in ein Concept Sheet unserer Wahl (z.B. in einem Text- oder Tabellendokument in Office oder einem Texteditor. Wichtig ist dabei, dass wir die Schlagwörter von den Stichwörtern und konzeptweise trennen und relevante Literatur notieren können.",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
+    ]
+  },
+  {
+    "objectID": "searchterms.html#textanalyse",
+    "href": "searchterms.html#textanalyse",
+    "title": "3  Suchbegriffe erarbeiten",
+    "section": "",
+    "text": "Tools zur Textanalyse\n\n\n\n\n\n\nTool\nLink\nHinweise\n\n\n\n\nYale MeSH Analyzer\nhttps://mesh.med.yale.edu/\nStellt die MeSH-terms und Keywords von bis zu 20 PubMed-Datensätzen tabellarisch dar.\n\n\nPubMed PubReMiner\nhttps://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi\nZeigt die Häufigkeit von Suchbegriffen in den Treffern einer PubMed-Suche.\n\n\nsearchbuildR\nhttps://github.com/IQWiG/searchbuildR\nShinyApp auf shinyapps.io (begrenzte Verfügbarkeit)\n\n\n\n\n\n\n3.1.1 Yale MeSH Analyzer\n\n\n\n\n\n\nAufgabe\n\n\n\n\nÖffnen Sie den Yale MeSH Analyzer (YMA).\nVerwenden Sie einige der PMIDs aus Section 1.3, um sie im YMA zu untersuchen.\n\n\n\n\n\n3.1.2 PubMed PubReMiner\n\n\n\n\n\n\nAufgabe\n\n\n\n\nÖffnen Sie den PubReMiner.\nVerwenden Sie einige der PMIDs aus Section 1.3 als Suchanfrage, um sie im PubReMiner zu untersuchen.\n\n\n\n\n\n3.1.3 searchbuildR\nDer searchbuildR ist ein Paket für die Programmiersprache R, das vom IQWiG entwickelt wurde und auf GitHub verfügbar ist. searchbuildR kann lokal ausgeführt werden; für diesen Workshop wurde jedoch eine öffentlich verfügbare ShinyApp auf shinyapps.io eingerichtet.\n\n\n\n\n\n\nAufgabe\n\n\n\n\nGehen Sie auf PubMed.\nSuchen Sie alle PMIDs aus Section 1.3 und exportieren Sie über “Send to Citation Manager” die Referenzen.\nBenennen Sie die erhaltene .nbib-Datei in .txt um.\nÖffnen Sie die ShinyApp.\nLaden Sie die Textdatei mit den Referenzen in searchbuildR hoch und analysieren Sie sie.",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
+    ]
+  },
+  {
+    "objectID": "searchterms.html#thesauri",
+    "href": "searchterms.html#thesauri",
+    "title": "3  Suchbegriffe erarbeiten",
+    "section": "3.2 Thesauri",
+    "text": "3.2 Thesauri\nJe nach individueller Verfügbarkeit ergibt es Sinn, in mehreren Fach-Thesauri nach Synonymen zu suchen.\n\n\n\n\n\n\nThesauri\n\n\n\n\n\n\n\n\nDatabase\nThesaurus\n\n\n\n\nPubMed/MEDLINE\nMedical Subject Headings (MeSH)\n\n\nEmbase\nEmtree\n\n\nCINAHL\nCINAHL Subject Headings\n\n\nAPA PsycInfo\nThesaurus of Psychological Index Terms\n\n\nGlobal Health\nCABI Thesaurus\n\n\nERIC\nERIC Thesaurus",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
+    ]
+  },
+  {
+    "objectID": "searchterms.html#andere-systematic-reviews",
+    "href": "searchterms.html#andere-systematic-reviews",
+    "title": "3  Suchbegriffe erarbeiten",
+    "section": "3.3 Andere Systematic Reviews",
+    "text": "3.3 Andere Systematic Reviews\nFalls es bereits Systematische Übersichtsarbeiten für ähnliche Themen gibt, lohnt es sicht, in die Methodenteile und Appendices zu schauen. Zum einen, um relevante Suchbegriffe zu finden, zum anderen, um nebenbei die Datenbanken kennenzulernen, die für das Thema üblicherweise durchsucht wurden.\n\n\n\n\n\n\nBeispielreview\n\n\n\nOnishi FJ, Daniel JW, Joaquim AF, Evangelista AC, de Freitas Bertolini E, Dantas FR, Neto ER, Mudo ML, Brock R, Milano JB, Botelho RV. The impact of traumatic herniated discs in cervical facets dislocations treatments: systematic review and meta-analysis. Eur Spine J. 2022 Oct;31(10):2664-2674. doi: 10.1007/s00586-022-07290-z. Epub 2022 Jun 28. PMID: 35763222.",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
+    ]
+  },
+  {
+    "objectID": "searchterms.html#zitationssuche",
+    "href": "searchterms.html#zitationssuche",
+    "title": "3  Suchbegriffe erarbeiten",
+    "section": "3.4 Zitationssuche",
+    "text": "3.4 Zitationssuche\n\n\n\n\n\n\nAufgabe\n\n\n\n\nÖffnen Sie den CitationChaser.\nKopieren Sie sich drei PMIDs aus Section 1.3 und starten Sie damit die Zitationssuche.",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
+    ]
+  },
+  {
+    "objectID": "initialsearch.html",
+    "href": "initialsearch.html",
+    "title": "4  Aufbau einer initialen Suche",
+    "section": "",
+    "text": "Priorisierung der wichtigsten Konzepte\nAufbau eines Konzepts\nTest auf Wiederfindung der Seed Paper",
+    "crumbs": [
+      "Home",
+      "Beispielprojekt",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Aufbau einer initialen Suche</span>"
+    ]
+  }
+]

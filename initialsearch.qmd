@@ -1,0 +1,7 @@
+## Aufbau einer initialen Suche
+
+1. Priorisierung der wichtigsten Konzepte
+
+2. Aufbau eines Konzepts
+
+3. Test auf Wiederfindung der Seed Paper

@@ -1,0 +1,69 @@
+# Suchbegriffe erarbeiten
+
+Im Folgenden wollen wir in verschiedenen Techniken die Seed Paper aus @sec-seedpaper einsetzen, um Suchbegriffe zu finden. Diese notieren wir uns in ein *Concept Sheet* unserer Wahl (z.B. in einem Text- oder Tabellendokument in Office oder einem Texteditor. Wichtig ist dabei, dass wir die Schlagwörter von den Stichwörtern und konzeptweise trennen und relevante Literatur notieren können.
+
+## Textanalyse
+
+::: {.callout-tip title="Tools zur Textanalyse"}
+| Tool | Link | Hinweise |
+|------------------------|------------------------|------------------------|
+| Yale MeSH Analyzer | <https://mesh.med.yale.edu/> | Stellt die MeSH-terms und Keywords von bis zu 20 PubMed-Datensätzen tabellarisch dar. |
+| PubMed PubReMiner | <https://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi> | Zeigt die Häufigkeit von Suchbegriffen in den Treffern einer PubMed-Suche. |
+| searchbuildR | <https://github.com/IQWiG/searchbuildR> | [ShinyApp auf shinyapps.io](https://3cgebs-marc-von0gernler.shinyapps.io/shiny-searchbuildr/) (begrenzte Verfügbarkeit) |
+:::
+
+### Yale MeSH Analyzer
+
+::: {.callout-caution title="Aufgabe"}
+1.  Öffnen Sie den [Yale MeSH Analyzer](https://mesh.med.yale.edu/) (YMA).
+2.  Verwenden Sie einige der PMIDs aus @sec-seedpaper, um sie im YMA zu untersuchen.
+:::
+
+### PubMed PubReMiner
+
+::: {.callout-caution title="Aufgabe"}
+1.  Öffnen Sie den [PubReMiner](https://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi).
+2.  Verwenden Sie einige der PMIDs aus @sec-seedpaper als Suchanfrage, um sie im PubReMiner zu untersuchen.
+:::
+
+### searchbuildR
+
+Der searchbuildR ist ein Paket für die Programmiersprache R, das vom IQWiG entwickelt wurde und auf [GitHub](https://github.com/IQWiG/searchbuildR) verfügbar ist. searchbuildR kann lokal ausgeführt werden; für diesen Workshop wurde jedoch eine öffentlich verfügbare [ShinyApp auf shinyapps.io](https://3cgebs-marc-von0gernler.shinyapps.io/shiny-searchbuildr/) eingerichtet.
+
+::: {.callout-caution title="Aufgabe"}
+1.  Gehen Sie auf [PubMed](https://pubmed.ncbi.nlm.nih.gov/).
+2.  Suchen Sie alle PMIDs aus @sec-seedpaper und exportieren Sie über "Send to Citation Manager" die Referenzen.
+3.  Benennen Sie die erhaltene `.nbib`-Datei in `.txt` um.
+4.  Öffnen Sie die [ShinyApp](https://3cgebs-marc-von0gernler.shinyapps.io/shiny-searchbuildr/).
+5.  Laden Sie die Textdatei mit den Referenzen in searchbuildR hoch und analysieren Sie sie.
+:::
+
+## Thesauri
+
+Je nach individueller Verfügbarkeit ergibt es Sinn, in mehreren Fach-Thesauri nach Synonymen zu suchen.
+
+::: {.callout-tip collapse="true" title="Thesauri"}
+| Database | Thesaurus |
+|------------------------------------|------------------------------------|
+| PubMed/MEDLINE | [Medical Subject Headings (MeSH)](https://www.ncbi.nlm.nih.gov/mesh/) |
+| Embase | [Emtree](https://www.embase.com/#emtreeSearch/default) |
+| CINAHL | [CINAHL Subject Headings](https://connect.ebsco.com/s/article/CINAHL-Subject-Headings-Frequently-Asked-Questions?language=en_US) |
+| APA PsycInfo | [Thesaurus of Psychological Index Terms](https://www.apa.org/pubs/databases/training/thesaurus) |
+| Global Health | [CABI Thesaurus](https://www.cabi.org/cabithesaurus) |
+| ERIC | [ERIC Thesaurus](https://eric.ed.gov/?ti=all) |
+:::
+
+## Andere Systematic Reviews
+
+Falls es bereits Systematische Übersichtsarbeiten für ähnliche Themen gibt, lohnt es sicht, in die Methodenteile und Appendices zu schauen. Zum einen, um relevante Suchbegriffe zu finden, zum anderen, um nebenbei die Datenbanken kennenzulernen, die für das Thema üblicherweise durchsucht wurden.
+
+::: {.callout-tip title="Beispielreview"}
+Onishi FJ, Daniel JW, Joaquim AF, Evangelista AC, de Freitas Bertolini E, Dantas FR, Neto ER, Mudo ML, Brock R, Milano JB, Botelho RV. The impact of traumatic herniated discs in cervical facets dislocations treatments: systematic review and meta-analysis. Eur Spine J. 2022 Oct;31(10):2664-2674. doi: [10.1007/s00586-022-07290-z](https://doi.org/10.1007/s00586-022-07290-z). Epub 2022 Jun 28. PMID: [35763222](https://pubmed.ncbi.nlm.nih.gov/35763222/).
+:::
+
+## Zitationssuche
+
+::: {.callout-caution title="Aufgabe"}
+1.  Öffnen Sie den [CitationChaser](https://estech.shinyapps.io/citationchaser/).
+2.  Kopieren Sie sich drei PMIDs aus @sec-seedpaper und starten Sie damit die Zitationssuche.
+:::

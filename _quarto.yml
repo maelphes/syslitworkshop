@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Workshop"
+  subtitle: "Grundlagen der systematischen Literaturrecherche"
+  author: "Marc von Gernler"
+  description: Interner Workshop der AG EBM
+  keyword: systematic searching, information retrieval, bibliographic databases, evidence-based medicine
+  chapters:
+    - index.qmd
+    - part: "Beispielprojekt"
+      chapters:
+        - facts.qmd
+        - concepts.qmd
+        - searchterms.qmd
+        - initialsearch.qmd
+  navbar:
+    background: "#2a536b" 
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Info
+  search:
+    location: sidebar
+    type: textbox
+
+
+format:
+  html:
+    theme: united
+    link-external-newwindow: true
+    linkcolor: "#5080AA"
+    highlight-style: github
