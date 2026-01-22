@@ -1,5 +1,0 @@
----
-title: "Info"
----
-
-Diese Website ist Teil eines internen Workshops der AG EBM.

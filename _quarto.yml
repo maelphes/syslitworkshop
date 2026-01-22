@@ -21,8 +21,6 @@ book:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Info
   search:
     location: sidebar
     type: textbox
