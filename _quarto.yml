@@ -10,12 +10,15 @@ book:
   keyword: systematic searching, information retrieval, bibliographic databases, evidence-based medicine
   chapters:
     - index.qmd
-    - part: "Beispielprojekt"
+    - part: "Erster Workshoptermin"
       chapters:
         - facts.qmd
         - concepts.qmd
         - searchterms.qmd
         - initialsearch.qmd
+    - part: "Zweiter Workshoptermin"
+      chapters: 
+        - topic.qmd
   navbar:
     background: "#2a536b" 
     left:

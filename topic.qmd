@@ -1,0 +1,57 @@
+---
+title: "Programm"
+format: html
+---
+
+# Programm für den zweiten Workshoptermin {.unnumbered}
+
+1.  Das Forschungsthema verstehen
+
+    -   um richtige Fragen zu stellen
+    -   um das Thema eingrenzen zu können
+    -   um relevante Artikel zu erkennen
+    -   Beispielseiten:
+        -   <https://radiopaedia.org/articles/facet-dislocation?case_id=bilateral-cervical-locked-facets>
+        -   <https://de.wikipedia.org/wiki/Halswirbels%C3%A4ule>
+
+2.  Umgang mit MeSH und anderen Thesauri
+
+    -   Wie vewende ich <https://www.ncbi.nlm.nih.gov/mesh/>?
+    -   Aufbau der Einträge verstehen, z.B. <https://www.ncbi.nlm.nih.gov/mesh/68004204>
+    -   Entry Terms für Stichwortsuche (ohne Kommata) sammeln, ggf. mit Forschenden abstimmen
+    -   MeSH Tree untersuchen
+    -   Überlegung: MeSH term explodieren lassen oder nicht?
+    -   Einblick in Embase.com und MeSH via Ovid
+
+3.  Andere Reviews ansehen
+
+    -   Reviews auf PubMed, z.B.
+        -   <https://pubmed.ncbi.nlm.nih.gov/35763222/>
+        -   <https://pubmed.ncbi.nlm.nih.gov/32875872/>
+    -   Cochrane Reviews, z.B.
+        -   <https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008129.pub2/appendices#CD008129-sec-0092>
+
+4.  Suchstrategien bauen
+
+    -   Was sind Ovid-Segmente?
+    -   Welche Datenfelder gibt es? 
+    -   Feldbezeichnungen und Unterschiede bei den Keywords (wort- oder phrasenindexiert)
+    -   Nutzen von *Seed Papers* zum Aufbau und zur Überprüfung der Suchstrategie
+
+::: {.callout-tip title="Beispiel: Erste Suchstrategie für Ovid MEDLINE"}
+[Ovid Jumpstart Link](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=6rOeENRUXexl3uJUHUfyT6QHttnKI6yLSnAV4ng3ejJSRlUH9p4PYQmmtaykCJR2W)
+
+``` python
+Ovid MEDLINE(R) ALL <1946 to February 17, 2026>
+
+1   (Cervical Vertebrae/ or Zygapophyseal Joint/) and (Spinal Injuries/ or Joint Dislocations/) 4549
+2   ((dislocated or dislocation or fracture? or subluxed or perched or locked or unlocking) adj3 facet*).ti,ab,kf.  855
+3   (surgery or surgical or surgically or treated or treatment).ti,ab.  8525485
+4   su.fs.  2442427
+5   1 or 2  5152
+6   3 or 4  9514616
+7   5 and 6 2776
+8   ("17355824" or "27137154" or "28507879" or "10413120" or "34400738" or "20936307" or "25909272" or "10419364" or "25344641" or "29279998" or "28182597" or "29547951" or "31332570" or "12431286" or "8169645").ui. 15
+9   7 and 8 15
+```
+:::

@@ -1,4 +1,4 @@
-## Aufbau einer initialen Suche
+## Ausblick: Aufbau einer initialen Suche
 
 1.  Priorisierung der wichtigsten Konzepte
 

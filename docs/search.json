@@ -18,7 +18,7 @@
     "text": "1.1 Forschungsfrage\nFür diesen Workshop soll das nachfolgende Projektbeispiel verwendet werden.\n“What is the optimal surgical treatment strategy for cervical locked facets?”",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projektinformationen</span>"
     ]
   },
@@ -30,7 +30,7 @@
     "text": "1.2 Auswahlkriterien\n\n1.2.1 Inclusion Criteria\n\nReporting surgical treatment (anterior/posterior/combined approach)\nComparative studies, RCTs, cohort studies, or case series (≥10 patients)\nReporting at least one relevant clinical outcome\nPublished in English or German\n\n\n\n1.2.2 Exclusion Criteria\n\nNon-surgical treatment focus\nNon-traumatic causes (e.g. congenital, degenerative locked facets)\nPediatric patients (&lt;16 years)",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projektinformationen</span>"
     ]
   },
@@ -42,7 +42,7 @@
     "text": "1.3 Seed Paper\n\n\n\n\n\n\nTipSeed Paper\n\n\n\nRelevante Literatur, die die Forschungsfrage beantworten könnte, nennt man Seed Paper, Core Paper oder Key Paper.\nOftmals erhält man kaum Seed Paper von den Forschenden, und die Form, in der man die Seed Paper erhält, kann vielfältig sein. PDF-Volltexte oder unvollständige Zitationen (oft ohne DOI oder PMID) sind keine Seltenheit.\nIdeal wären PubMed IDs oder DOIs, deshalb empfiehlt es sich, danach zu fragen.\nFalls die Forschenden keine Seed Paper kennen, ist es sinnvoll, eine kurze Scoping Search (z.B. in PubMed, Google Scholar o.ä.) nach den wichtigsten Konzepten durchzuführen, und so mögliche Seed Paper zu finden. Diese sollte man den Forschenden dann zur Beurteilung schicken, um sich die Relevanz bestätigen zu lassen.\n\n\nNehmen wir an, diese PubMed IDs (PMIDs) wurden von den Forschenden bereitgestellt:\n17355824 \n27137154 \n28507879 \n10413120 \n34400738\n20936307\n25909272 \n10419364\n25344641 \n29279998 \n28182597\n29547951 \n31332570\n12431286 \n8169645 \n21892390\n30637172\n27886874\n28658125\n27706424\n35763222\n17109175\n29951274\n21559107\n28808751\n10382247\n10616053\n8553116",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projektinformationen</span>"
     ]
   },
@@ -54,7 +54,7 @@
     "text": "2.1 PICO\nHier ist eine mögliche Lösung. Bitte erst nach Bearbeiten der Aufgabe anklicken.",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzepte identifizieren</span>"
     ]
   },
@@ -66,7 +66,7 @@
     "text": "CautionAufgabe\n\n\n\nWelche Konzepte enthält die Frage? Kann man hier PICO sinnvoll einsetzen?\n\n\n\n\n\nTable 2.1\n\n\n\n\n\nP\nPopulation\n\n\n\nI\nIntervention\n\n\n\nC\nComparison\n\n\n\nO\nOutcome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipLösung\n\n\n\n\n\nP: Cervical locked facets\n\nI: surgery / treatment options\n\nC: -\n\nO: -",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzepte identifizieren</span>"
     ]
   },
@@ -78,68 +78,80 @@
     "text": "3.1 Textanalyse\nIm Folgenden wollen wir in verschiedenen Techniken die Seed Paper aus Section 1.3 einsetzen, um Suchbegriffe zu finden. Diese notieren wir uns in ein Concept Sheet unserer Wahl (z.B. in einem Text- oder Tabellendokument in Office oder einem Texteditor. Wichtig ist dabei, dass wir die Schlagwörter von den Stichwörtern und konzeptweise trennen und relevante Literatur notieren können.",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
     ]
   },
   {
-    "objectID": "searchterms.html#textanalyse",
-    "href": "searchterms.html#textanalyse",
+    "objectID": "searchterms.html#sec-textanalysis",
+    "href": "searchterms.html#sec-textanalysis",
     "title": "3  Suchbegriffe erarbeiten",
     "section": "",
     "text": "TipTools zur Textanalyse\n\n\n\n\n\n\nTool\nLink\nHinweise\n\n\n\n\nYale MeSH Analyzer\nhttps://mesh.med.yale.edu/\nStellt die MeSH-terms und Keywords von bis zu 20 PubMed-Datensätzen tabellarisch dar.\n\n\nPubMed PubReMiner\nhttps://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi\nZeigt die Häufigkeit von Suchbegriffen in den Treffern einer PubMed-Suche.\n\n\nsearchbuildR\nhttps://github.com/IQWiG/searchbuildR\nShinyApp auf shinyapps.io (begrenzte Verfügbarkeit)\n\n\n\n\n\n\n3.1.1 Yale MeSH Analyzer\n\n\n\n\n\n\nCautionAufgabe\n\n\n\n\nÖffnen Sie den Yale MeSH Analyzer (YMA).\nVerwenden Sie einige der PMIDs aus Section 1.3, um sie im YMA zu untersuchen.\n\n\n\n\n\n3.1.2 PubMed PubReMiner\n\n\n\n\n\n\nCautionAufgabe\n\n\n\n\nÖffnen Sie den PubReMiner.\nVerwenden Sie einige der PMIDs aus Section 1.3 als Suchanfrage, um sie im PubReMiner zu untersuchen.\n\n\n\n\n\n3.1.3 searchbuildR\nDer searchbuildR ist ein Paket für die Programmiersprache R, das vom IQWiG entwickelt wurde und auf GitHub verfügbar ist. searchbuildR kann lokal ausgeführt werden; für diesen Workshop wurde jedoch eine öffentlich verfügbare ShinyApp auf shinyapps.io eingerichtet.\n\n\n\n\n\n\nCautionAufgabe\n\n\n\n\nGehen Sie auf PubMed.\nSuchen Sie alle PMIDs aus Section 1.3 und exportieren Sie über “Send to Citation Manager” die Referenzen.\nBenennen Sie die erhaltene .nbib-Datei in .txt um.\nÖffnen Sie die ShinyApp.\nLaden Sie die Textdatei mit den Referenzen in searchbuildR hoch und analysieren Sie sie.",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
     ]
   },
   {
-    "objectID": "searchterms.html#thesauri",
-    "href": "searchterms.html#thesauri",
+    "objectID": "searchterms.html#sec-thesauri",
+    "href": "searchterms.html#sec-thesauri",
     "title": "3  Suchbegriffe erarbeiten",
     "section": "3.2 Thesauri",
     "text": "3.2 Thesauri\nJe nach individueller Verfügbarkeit ergibt es Sinn, in mehreren Fach-Thesauri nach Synonymen zu suchen.\n\n\n\n\n\n\nTipThesauri\n\n\n\n\n\n\n\n\nDatabase\nThesaurus\n\n\n\n\nPubMed/MEDLINE\nMedical Subject Headings (MeSH)\n\n\nEmbase\nEmtree\n\n\nCINAHL\nCINAHL Subject Headings\n\n\nAPA PsycInfo\nThesaurus of Psychological Index Terms\n\n\nGlobal Health\nCABI Thesaurus\n\n\nERIC\nERIC Thesaurus",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
     ]
   },
   {
-    "objectID": "searchterms.html#andere-systematic-reviews",
-    "href": "searchterms.html#andere-systematic-reviews",
+    "objectID": "searchterms.html#sec-otherreviews",
+    "href": "searchterms.html#sec-otherreviews",
     "title": "3  Suchbegriffe erarbeiten",
     "section": "3.3 Andere Systematic Reviews",
     "text": "3.3 Andere Systematic Reviews\nFalls es bereits Systematische Übersichtsarbeiten für ähnliche Themen gibt, lohnt es sicht, in die Methodenteile und Appendices zu schauen. Zum einen, um relevante Suchbegriffe zu finden, zum anderen, um nebenbei die Datenbanken kennenzulernen, die für das Thema üblicherweise durchsucht wurden.\n\n\n\n\n\n\nTipBeispielreview\n\n\n\nOnishi FJ, Daniel JW, Joaquim AF, Evangelista AC, de Freitas Bertolini E, Dantas FR, Neto ER, Mudo ML, Brock R, Milano JB, Botelho RV. The impact of traumatic herniated discs in cervical facets dislocations treatments: systematic review and meta-analysis. Eur Spine J. 2022 Oct;31(10):2664-2674. doi: 10.1007/s00586-022-07290-z. Epub 2022 Jun 28. PMID: 35763222.",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
     ]
   },
   {
-    "objectID": "searchterms.html#zitationssuche",
-    "href": "searchterms.html#zitationssuche",
+    "objectID": "searchterms.html#sec-citationsearch",
+    "href": "searchterms.html#sec-citationsearch",
     "title": "3  Suchbegriffe erarbeiten",
     "section": "3.4 Zitationssuche",
     "text": "3.4 Zitationssuche\n\n\n\n\n\n\nCautionAufgabe\n\n\n\n\nÖffnen Sie den CitationChaser.\nKopieren Sie sich drei PMIDs aus Section 1.3 und starten Sie damit die Zitationssuche.",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
+      "Erster Workshoptermin",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Suchbegriffe erarbeiten</span>"
     ]
   },
   {
     "objectID": "initialsearch.html",
     "href": "initialsearch.html",
-    "title": "4  Aufbau einer initialen Suche",
+    "title": "4  Ausblick: Aufbau einer initialen Suche",
     "section": "",
     "text": "Priorisierung der wichtigsten Konzepte\nAufbau eines Konzepts\nTest auf Wiederfindung der Seed Paper",
     "crumbs": [
       "Home",
-      "Beispielprojekt",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Aufbau einer initialen Suche</span>"
+      "Erster Workshoptermin",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Ausblick: Aufbau einer initialen Suche</span>"
+    ]
+  },
+  {
+    "objectID": "topic.html",
+    "href": "topic.html",
+    "title": "5  Programm",
+    "section": "",
+    "text": "Programm für den zweiten Workshoptermin\n\nDas Forschungsthema verstehen\n\num richtige Fragen zu stellen\num das Thema eingrenzen zu können\num relevante Artikel zu erkennen\nBeispielseiten:\n\nhttps://radiopaedia.org/articles/facet-dislocation?case_id=bilateral-cervical-locked-facets\nhttps://de.wikipedia.org/wiki/Halswirbels%C3%A4ule\n\n\nUmgang mit MeSH und anderen Thesauri\n\nWie vewende ich https://www.ncbi.nlm.nih.gov/mesh/?\nAufbau der Einträge verstehen, z.B. https://www.ncbi.nlm.nih.gov/mesh/68004204\nEntry Terms für Stichwortsuche (ohne Kommata) sammeln, ggf. mit Forschenden abstimmen\nMeSH Tree untersuchen\nÜberlegung: MeSH term explodieren lassen oder nicht?\nEinblick in Embase.com und MeSH via Ovid\n\nAndere Reviews ansehen\n\nReviews auf PubMed, z.B.\n\nhttps://pubmed.ncbi.nlm.nih.gov/35763222/\nhttps://pubmed.ncbi.nlm.nih.gov/32875872/\n\nCochrane Reviews, z.B.\n\nhttps://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008129.pub2/appendices#CD008129-sec-0092\n\n\nSuchstrategien bauen\n\nWas sind Ovid-Segmente?\nWelche Datenfelder gibt es?\nFeldbezeichnungen und Unterschiede bei den Keywords (wort- oder phrasenindexiert)\nNutzen von Seed Papers zum Aufbau und zur Überprüfung der Suchstrategie\n\n\n\n\n\n\n\n\nTipBeispiel: Erste Suchstrategie für Ovid MEDLINE\n\n\n\nOvid Jumpstart Link\nOvid MEDLINE(R) ALL &lt;1946 to February 17, 2026&gt;\n\n1   (Cervical Vertebrae/ or Zygapophyseal Joint/) and (Spinal Injuries/ or Joint Dislocations/) 4549\n2   ((dislocated or dislocation or fracture? or subluxed or perched or locked or unlocking) adj3 facet*).ti,ab,kf.  855\n3   (surgery or surgical or surgically or treated or treatment).ti,ab.  8525485\n4   su.fs.  2442427\n5   1 or 2  5152\n6   3 or 4  9514616\n7   5 and 6 2776\n8   (\"17355824\" or \"27137154\" or \"28507879\" or \"10413120\" or \"34400738\" or \"20936307\" or \"25909272\" or \"10419364\" or \"25344641\" or \"29279998\" or \"28182597\" or \"29547951\" or \"31332570\" or \"12431286\" or \"8169645\").ui. 15\n9   7 and 8 15",
+    "crumbs": [
+      "Home",
+      "Zweiter Workshoptermin",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Programm</span>"
     ]
   }
 ]
