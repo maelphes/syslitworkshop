@@ -19,6 +19,9 @@ book:
     - part: "Zweiter Workshoptermin"
       chapters: 
         - topic.qmd
+    - part: "Dritter Workshoptermin"
+      chapters: 
+        - topic2.qmd
   navbar:
     background: "#2a536b" 
     left:
