@@ -39,19 +39,19 @@ format: html
     -   Nutzen von *Seed Papers* zum Aufbau und zur Überprüfung der Suchstrategie
 
 ::: {.callout-tip title="Beispiel: Erste Suchstrategie für Ovid MEDLINE"}
-[Ovid Jumpstart Link](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=6rOeENRUXexl3uJUHUfyT6QHttnKI6yLSnAV4ng3ejJSRlUH9p4PYQmmtaykCJR2W)
+[Ovid Jumpstart Link](https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=1wbbQqKBMNa2waVEkoceNHjssNzIaJiXqgHhUFwHWiR0ESImzhLhiIA8sJFD39vWC)
 
 ``` python
-Ovid MEDLINE(R) ALL <1946 to February 17, 2026>
+Ovid MEDLINE(R) ALL <1946 to March 16, 2026>
 
-1   (Cervical Vertebrae/ or Zygapophyseal Joint/) and (Spinal Injuries/ or Joint Dislocations/) 4549
-2   ((dislocated or dislocation or fracture? or subluxed or perched or locked or unlocking) adj3 facet*).ti,ab,kf.  855
-3   (surgery or surgical or surgically or treated or treatment).ti,ab.  8525485
-4   su.fs.  2442427
-5   1 or 2  5152
-6   3 or 4  9514616
-7   5 and 6 2776
-8   ("17355824" or "27137154" or "28507879" or "10413120" or "34400738" or "20936307" or "25909272" or "10419364" or "25344641" or "29279998" or "28182597" or "29547951" or "31332570" or "12431286" or "8169645").ui. 15
-9   7 and 8 15
+1	(Cervical Vertebrae/ or Zygapophyseal Joint/) and (Spinal Injuries/ or Joint Dislocations/)	4556
+2	((dislocated or dislocation or fracture? or subluxed or perched or locked or unlocking) adj3 facet*).ti,ab,kf.	859
+3	(surgery or surgical or surgically or treated or treatment).ti,ab.	8558921
+4	su.fs.	2448698
+5	1 or 2 [Population: Locked cervical facets]	5163
+6	3 or 4 [Intervention: Surgery]	9549513
+7	5 and 6 [Population AND Intervention]	2784
+8	("17355824" or "27137154" or "28507879" or "10413120" or "34400738" or "20936307" or "25909272" or "10419364" or "25344641" or "29279998" or "28182597" or "29547951" or "31332570" or "12431286" or "8169645").ui. [Known relevant records]	15
+9	7 and 8 [Known relevant records found by search strategy]	15
 ```
 :::
